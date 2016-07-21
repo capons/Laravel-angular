@@ -1,5 +1,8 @@
-div.spicy div {
-    padding: 10px;
-    border: solid 2px blue;
+
+
+.show-scope-demo.ng-scope,
+.show-scope-demo .ng-scope  {
+    border: 1px solid red;
+    margin: 3px;
 }
 

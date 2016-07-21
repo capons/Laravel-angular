@@ -10,6 +10,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-resource.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-route.min.js"></script>
+    <script src="https://cdn.firebase.com/js/client/2.0.4/firebase.js"></script>
+    <script src="https://cdn.firebase.com/libs/angularfire/0.9.0/angularfire.min.js"></script>
 
     <!--style js -->
     <script type="text/javascript" src="{!! asset('/public/js/main.js') !!}"></script>
