@@ -13,9 +13,10 @@
 
     <!--style js -->
     <script type="text/javascript" src="{!!asset('node_modules/angular/angular.js')!!}"></script>
-    <script type="text/javascript" src="{!! asset('public/js/main.js')!!}"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
+    <script type="text/javascript" src="{!! asset('public/js/app.js')!!}"></script>
 </head>
-<body >
+<body>
 <!--nav menu -->
 
 <section>
