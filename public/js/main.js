@@ -1,3 +1,4 @@
+
 var module = angular.module('myApp', []);
 module.controller('FilterController', ['$scope','filterFilter', function($scope,filterFilter) {
     $scope.array = [
